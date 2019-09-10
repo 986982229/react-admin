@@ -20,6 +20,7 @@ export const queryString = () => {
     return _queryString;
 };
 
+<<<<<<< HEAD
 // commit 1
 
 // commit 2
@@ -29,3 +30,6 @@ export const queryString = () => {
 // commit 4
 
 // commit 5
+=======
+// commit 1
+>>>>>>> parent of b1688c5... 2
